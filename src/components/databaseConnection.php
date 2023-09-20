@@ -1,7 +1,7 @@
 <?php
 $servername = 'localhost';
-$dbusername = 'aholton';
-$dbpassword = 'Mountred23#';
+$dbusername = 'username';
+$dbpassword = 'password';
 $dbname = 'ticket_main';
 
 // Create connection
